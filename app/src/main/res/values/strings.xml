@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tareas</string>
+    <string name="etTask">Introduzca la tarea</string>
+    <string name="btn3">Guardar tarea</string>
+    <string name="btnModify">Modificar tarea</string>
+    <string name="etbtnModify">Editar tarea</string>
+    <string name="btnDelete">Borrar Tarea</string>
+</resources>
