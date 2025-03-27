@@ -50,7 +50,7 @@ public class Modificar_tarea extends AppCompatActivity {
         returnIntent.putExtra("position", getIntent().getIntExtra("position", -1));
         returnIntent.putExtra("delete", true);
         setResult(RESULT_OK, returnIntent);
-        Toast.makeText(this, "Tarea Eliminda", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Tarea Eliminada", Toast.LENGTH_LONG).show();
         finish();
     }
     private void reference(){
